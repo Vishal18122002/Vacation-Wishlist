@@ -40,3 +40,6 @@ For any inquiries or support, please contact [sivavishal1812@gmail.com](mailto:s
 ---
 
 This README provides a clear and detailed overview of your Vacation Wishlist project, covering key features, installation instructions, usage, and contribution guidelines.
+
+### Preview video link: https://drive.google.com/file/d/1Et6403llAhghlaI3PFistXYU6JeeeCCM/view?usp=drive_link
+
